@@ -1,0 +1,122 @@
+{
+    "Califon": {
+        "coords": "40.719381, -74.836793",
+        "population": 1080,
+        "tax_rate": 0.03031,
+        "med_age": "42",
+        "percent_household_under_18": 0.401,
+        "total_households": 394,
+        "household_size": 2.73,
+        "single_person_households": 0.178,
+        "ave_school_rating": 4,
+        "percent_rental": 0.059
+    },
+    "Clinton Town": {
+        "coords": "40.63681, -74.915205",
+        "population": 2657,
+        "tax_rate": 0.0255,
+        "med_age": 40,
+        "percent_household_under_18": 0.37,
+        "total_households": 1057,
+        "household_size": 2.57,
+        "single_person_households": 0.254,
+        "ave_school_rating": 10,
+        "percent_rental": 0.237
+    },
+    "Clinton Township": {
+        "coords": "40.630098, -74.867202",
+        "population": 13022,
+        "tax_rate": 0.255,
+        "med_age": 41,
+        "percent_household_under_18": 0.421,
+        "total_households": 4129,
+        "household_size": 2.83,
+        "single_person_households": 0.174,
+        "ave_school_rating": 10,
+        "percent_rental": 0.18
+    },
+    "Flemington": {
+        "coords": "40.508651, -74.860113",
+        "population": 4641,
+        "tax_rate": 0.03054,
+        "med_age": 35,
+        "percent_household_under_18": 0.285,
+        "total_households": 1815,
+        "household_size": 2.44,
+        "single_person_households": 0.371,
+        "ave_school_rating": 10,
+        "percent_rental": 0.59
+    },
+    "Frenchtown": {
+        "coords": "40.531218, -75.051368",
+        "population": 1386,
+        "tax_rate": 0.03214,
+        "med_age": 43,
+        "percent_household_under_18": 0.267,
+        "total_households": 596,
+        "household_size": 2.27,
+        "single_person_households": 0.314,
+        "ave_school_rating": 8,
+        "percent_rental": 0.366
+    },
+    "High Bridge": {
+        "coords": "40.669591, -74.890548",
+        "population": 3648,
+        "tax_rate": 0.03706,
+        "med_age": 40,
+        "percent_household_under_18": 0.336,
+        "total_households": 1418,
+        "household_size": 2.57,
+        "single_person_households": 0.229,
+        "ave_school_rating": 7,
+        "percent_rental": 0.186
+    },
+    "Lambertville": {
+        "coords": "40.368563, -74.943049",
+        "population": 3906,
+        "tax_rate": 0.01942,
+        "med_age": 47,
+        "percent_household_under_18": 0.153,
+        "total_households": 1958,
+        "household_size": 1.98,
+        "single_person_households": 0.414,
+        "ave_school_rating": 6,
+        "percent_rental": 0.346
+    },
+    "Raritan Township": {
+        "coords": "40.547102, -74.895921",
+        "population": "22041",
+        "tax_rate": 0.02345,
+        "med_age": 42,
+        "percent_household_under_18": 0.376,
+        "total_households": 8056,
+        "household_size": 2.72,
+        "single_person_households": 0.207,
+        "ave_school_rating": 9,
+        "percent_rental": 0.310
+    },
+    "Stockton": {
+        "coords": "40.405431, -74.974176",
+        "population": 524,
+        "tax_rate": 0.02065,
+        "med_age": 48,
+        "percent_household_under_18": 0.232,
+        "total_households": 237,
+        "household_size": 2.27,
+        "single_person_households": 0.321,
+        "ave_school_rating": 8,
+        "percent_rental": 0.328
+    },
+    "Union Township": {
+        "coords": "40.632215, -74.964965",
+        "population": 5679,
+        "tax_rate": 0.02635,
+        "med_age": 44,
+        "percent_household_under_18": 0.338,
+        "total_households": 1752,
+        "household_size": 2.57,
+        "single_person_households": 0.248,
+        "ave_school_rating": 7,
+        "percent_rental": 0.22
+    }
+}
